@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Reasons to use Vue and Laravel together](#reasons-to-use-vue-and-laravel-together)
   - [Scaffolded by default](#scaffolded-by-default)
-  - [Webpack Mix](#webpack-mix)
+  - [Laravel Mix](#laravel-mix)
   - [Widespread community adoption](#widespread-community-adoption)
 - [Common gotchas when using Vue and Laravel together](#common-gotchas-when-using-vue-and-laravel-together)
   - [Blade and Vue interpolation syntax](#blade-and-vue-interpolation-syntax)
