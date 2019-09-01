@@ -23,7 +23,7 @@
       - [Create the controller and action](#create-the-controller-and-action)
       - [Create the view](#create-the-view)
   - [Lack of Webpack aliases when using Laravel Mix](#lack-of-webpack-aliases-when-using-laravel-mix)
-  - [Thanks and good bye](#thanks-and-good-bye)
+- [Thanks and good bye](#thanks-and-good-bye)
 
 # Introduction
 
@@ -318,7 +318,7 @@ Unfortunately this is not setup by default. Fortunately for us - [there's a plug
 
 ----
 
-## Thanks and good bye
+# Thanks and good bye
 
 Thanks for reading and enjoy developing with Laravel and Vue.
 
