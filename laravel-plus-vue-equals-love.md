@@ -327,3 +327,5 @@ Also, be sure to check out the [new Vue Community](https://vue-community.org/).
 > Something missing or incorrect? This [article's source is on Github](https://github.com/sustained/dev.to-article-sources/).
 > 
 > Please feel free to [open an issue](https://github.com/sustained/dev.to-article-sources/issues/new) or [send a PR](https://github.com/sustained/dev.to-article-sources/compare).
+
+[Back to top](#table-of-contents)
