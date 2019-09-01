@@ -22,8 +22,8 @@
       - [Configure the Laravel router](#configure-the-laravel-router)
       - [Create the controller and action](#create-the-controller-and-action)
       - [Create the view](#create-the-view)
-      - [Lack of Webpack aliases when using Laravel Mix](#lack-of-webpack-aliases-when-using-laravel-mix)
-  - [Configuring Webpack aliases](#configuring-webpack-aliases)
+  - [Lack of Webpack aliases when using Laravel Mix](#lack-of-webpack-aliases-when-using-laravel-mix)
+  - [Thanks and good bye](#thanks-and-good-bye)
 
 # Introduction
 
@@ -318,7 +318,11 @@ Unfortunately this is not setup by default. Fortunately for us - [there's a plug
 
 ----
 
-Thanks for reading and enjoy developing with Laravel and Vue. Also, be sure to check out the [new Vue Community](https://vue-community.org/).
+## Thanks and good bye
+
+Thanks for reading and enjoy developing with Laravel and Vue.
+
+Also, be sure to check out the [new Vue Community](https://vue-community.org/).
 
 > Something missing or incorrect? This [article's source is on Github](https://github.com/sustained/dev.to-article-sources/).
 > 
