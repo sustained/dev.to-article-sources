@@ -54,7 +54,7 @@ After having created a Laravel project, you'll be provided with:
   - registers the `ExampleComponent.vue`
   - provides example code on how to automatically register Vue components
   - initialises Vue
-- `ExampleComponent.vue`:
+- `ExampleComponent.vue`
 
 You are of course free to customise these files to your needs such as by removing unneeded/unwanted libraries.
 
