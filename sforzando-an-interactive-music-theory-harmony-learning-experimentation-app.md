@@ -151,6 +151,8 @@ I then broke those chords up into some basic arpeggios, here they are represente
 
 I chose the key of C minor, of course, because [it's the only actual good key](https://en.wikipedia.org/wiki/Beethoven_and_C_minor).
 
+{% codesandbox swen0 %}
+
 *[Back to top](#sforzando)*
 
 ---
@@ -163,11 +165,9 @@ I chose the key of C minor, of course, because [it's the only actual good key](h
 
 ### To sample or to synthesize...
 
-Synthesizers are cool and all (oh who am I kidding - they're freaking awesome) and my chord progression sounds perfectly swell when pumped into a synthesizer:
+Synthesizers are cool and all (oh who am I kidding - they're freaking awesome) and my chord progression sounded perfectly swell when pumped into a synthesizer (see above).
 
-{% codesandbox swen0 %}
-
-But I quickly decided I wanted to use real piano samples (mostly because I am a pianist myself - the sound is just comfortable to my ear), so I [found some free samples](http://vis.versilstudios.net/vsco-community.html) and hooked them up:
+But I quickly decided I wanted to use real piano samples (mostly because I am a pianist myself - the sound is just comfortable to my ears), so I [found some free samples](http://vis.versilstudios.net/vsco-community.html) and hooked them up:
 
 {% codesandbox see7r %}
 
