@@ -13,22 +13,23 @@
     - [Why the name "Sforzando"?](#why-the-name)
 - [My ideas and experimentation thus far](#my-ideas-and-experimentation-thus-far)
     - [The Piano component](#the-piano-component)
-    - [Playing some music with Tone.js](#playing-some-music-with-tone.js)
+    - [Playing some music with Tone.js](#playing-some-music-with-tonejs)
         - [A brief distraction...](#a-brief-distraction)
         - [To sample or to synthesize...](#to-sample-or-to-synthesize)
     - [Displaying the music on the piano](#displaying-the-music-on-the-piano)
         - [A first attempt](#a-first-attempt)
-            - [What's with Tone.Draw?](#what's-with-tone.draw)
+            - [What's with Tone.Draw?](#whats-with-tonedraw)
         - [A second attempt](#a-second-attempt)
-    - [Bach to getting distracted - reading midi files](#bach-to-getting-distracted---reading-midi-files)
+    - [Bach to getting distracted - reading midi files](#bach-to-getting-distracted-reading-midi-files)
     - [The colour of music](#the-colour-of-music)
         - [Clavier à lumieères](#clavier-à-lumieères)
         - [Mapping sound waves to light waves](#mapping-sound-waves-to-light-waves)
     - [Animated sheet music with SVG](#animated-sheet-music-with-svg)
-- [What's next for Sforzando?](#what's-next-for-sforzando)
-    - [Any actual ideas, then?](#any-actual-ideas-then)
+- [What's next for Sforzando?](#whats-next-for-sforzando)
+    - [Reflection](#reflection)
+    - [Ideas for the future](#ideas-for-the-future)
         - [Every truly cultured music student knows...](#every-truly-cultured-music-student-knows)
-        - [The circle of li--err, fifths](#The-circle-of-li--err-fifths)
+        - [The circle of li--err, fifths](#The-circle-of-lierr-fifths)
         - [To send light into the darkness of men's hearts](#to-send-light-into-the-darkness-of-men's-hearts)
 - [Fin](#fin)
 - [Ideas, suggestions, feedback?](#ideas-suggestions-feedback)
@@ -465,6 +466,8 @@ Also, you should definitely check out [SVG.js](https://svgjs.com/) and [Anime.js
 
 # What's next for Sforzando?
 
+## Reflection
+
 Unfortunately, many of my projects end up dead and buried; often hidden away in private repositories.
 
 This generally happens because of one or more of the following reasons:
@@ -485,7 +488,7 @@ Yes, I'll keep experimenting with random ideas like animating SVGs and parsing M
 
 *[Back to top](#sforzando)*
 
-## Any actual ideas, then?
+## Ideas for the future
 
 ### Every truly cultured music student knows...
 
