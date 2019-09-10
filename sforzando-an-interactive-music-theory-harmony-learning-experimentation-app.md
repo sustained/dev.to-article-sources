@@ -77,7 +77,7 @@ Unlike most of my projects, I decided to open-source it. For many years I was af
 
 The most noteworthy are as follows:
 
-- [TonalJS](https://github.com/tonaljs/tonal), a music theory.
+- [TonalJS](https://github.com/tonaljs/tonal), a music theory library.
 - [ToneJS](https://github.com/Tonejs/Tone.js), a web audio framework.
 - [VuejS](https://github.com/vuejs/vue), a UI library.
 
@@ -483,7 +483,7 @@ This generally happens because of one or more of the following reasons:
   - and/or changing technology choices part way through
 - Struggling with how to architect the API, or the schema etc.
 
-But I really would like to keep working on this one.Out of all of my projects, old and new, it's probably my second favourite idea.
+But I really would like to keep working on this one. Out of all of my projects, old and new, it's probably my second favourite idea.
 
 And I'm deeply passionate about music.
 
