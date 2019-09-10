@@ -1,3 +1,7 @@
+> Something missing or incorrect? This [article's source is on Github](https://github.com/sustained/dev.to-article-sources/).
+> 
+> Please feel free to [open an issue](https://github.com/sustained/dev.to-article-sources/issues/new) or [send a PR](https://github.com/sustained/dev.to-article-sources/compare).
+
 # Sforzando
 
 ![A picture of the musical symbol known as sforzando which translates roughly to "sudden force", from Italian subito forzando and is a direction to heavily accent a note or chord, playing it much more strongly/loudly than the surrounding ones.](https://raw.githubusercontent.com/sustained/dev.to-article-sources/master/media/sforzando-an-interactive-music-theory-harmony-learning-experimentation-app/sforzando.jpg)
@@ -5,27 +9,27 @@
 # Table of Contents
 
 - [Introduction](#introduction)
-  - [What libraries are you using?](#what-libraries-are-you-using)
-  - [Why the name "Sforzando"?](#why-the-name)
+    - [What libraries are you using?](#what-libraries-are-you-using)
+    - [Why the name "Sforzando"?](#why-the-name)
 - [My ideas and experimentation thus far](#my-ideas-and-experimentation-thus-far)
-  - [The Piano component](#the-piano-component)
-  - [Playing some music with Tone.js](#playing-some-music-with-tone.js)
-    - [A brief distraction...](#a-brief-distraction)
-    - [To sample or to synthesize...](#to-sample-or-to-synthesize)
-  - [Displaying the music on the piano](#displaying-the-music-on-the-piano)
-    - [A first attempt](#a-first-attempt)
-      - [What's with Tone.Draw?](#what's-with-tone.draw)
-    - [A second attempt](#a-second-attempt)
-  - [Bach to getting distracted - reading midi files](#bach-to-getting-distracted---reading-midi-files)
-  - [The colour of music](#the-colour-of-music)
-    - [Clavier à lumieères](#clavier-à-lumieères)
-    - [Mapping sound waves to light waves](#mapping-sound-waves-to-light-waves)
-  - [Animated sheet music with SVG](#animated-sheet-music-with-svg)
+    - [The Piano component](#the-piano-component)
+    - [Playing some music with Tone.js](#playing-some-music-with-tone.js)
+        - [A brief distraction...](#a-brief-distraction)
+        - [To sample or to synthesize...](#to-sample-or-to-synthesize)
+    - [Displaying the music on the piano](#displaying-the-music-on-the-piano)
+        - [A first attempt](#a-first-attempt)
+            - [What's with Tone.Draw?](#what's-with-tone.draw)
+        - [A second attempt](#a-second-attempt)
+    - [Bach to getting distracted - reading midi files](#bach-to-getting-distracted---reading-midi-files)
+    - [The colour of music](#the-colour-of-music)
+        - [Clavier à lumieères](#clavier-à-lumieères)
+        - [Mapping sound waves to light waves](#mapping-sound-waves-to-light-waves)
+    - [Animated sheet music with SVG](#animated-sheet-music-with-svg)
 - [What's next for Sforzando?](#what's-next-for-sforzando)
-  - [Any actual ideas, then?](#any-actual-ideas-then)
-    - [Every truly cultured music student knows...](#every-truly-cultured-music-student-knows)
-    - [The circle of li--err, fifths](#The-circle-of-li--err-fifths)
-    - [To send light into the darkness of men's hearts](#to-send-light-into-the-darkness-of-men's-hearts)
+    - [Any actual ideas, then?](#any-actual-ideas-then)
+        - [Every truly cultured music student knows...](#every-truly-cultured-music-student-knows)
+        - [The circle of li--err, fifths](#The-circle-of-li--err-fifths)
+        - [To send light into the darkness of men's hearts](#to-send-light-into-the-darkness-of-men's-hearts)
 - [Fin](#fin)
 - [Ideas, suggestions, feedback?](#ideas-suggestions-feedback)
 
