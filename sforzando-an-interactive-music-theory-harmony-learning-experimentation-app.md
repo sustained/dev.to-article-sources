@@ -58,7 +58,9 @@ I'd even argue that the above linked sections are more interesting than the code
 
 This article is an introduction to one of my (many) pet projects - Sforzando.
 
-I'm not 100% sure what it will become but basically I imagine some kind of app that allows you to **experiment with music theory, harmony and composition in an interactive manner**. It's still very much in the **early** prototype phase.
+The initial prototype was lost due to me forgetting to upload a small handful of git repositories when upgrading my OS (yep...) - only video recordings survived. I intend to bring it back, with force. Or should I say, with forzando. :^)
+
+I'm not 100% sure what it will become but basically I imagine some kind of app that allows you to **experiment with music theory, harmony and composition in a varied and very interactive manner**. It's still very much in the **early** prototype phase.
 
 Like most of my projects, my reasons for creating it are:
 
