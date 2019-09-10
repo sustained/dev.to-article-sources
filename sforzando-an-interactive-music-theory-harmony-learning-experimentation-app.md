@@ -61,7 +61,7 @@ This article is an introduction to one of my (many) pet projects - Sforzando.
 
 The initial prototype was lost due to me forgetting to back up a small handful of files and folders when upgrading my OS (yep...) - only video recordings survived.
 
-I intend to bring it back, with force. Or should I say, with forzando. :^)
+I intend to bring it back, with force. Or should I say, with forzando. :)
 
 I'm not 100% sure what it will become but basically I imagine some kind of app that allows you to **experiment with music theory, harmony and composition in a varied and very interactive manner**. It's still very much in the **early** prototype phase.
 
