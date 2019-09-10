@@ -71,7 +71,7 @@ Like most of my projects, my reasons for creating it are:
 - to experiment with new ideas, techniques, technologies etc.
 - because I'll surely learn _something_ from it and I like to learn
 
-Unlike most of my projects, I decided to open-source it. For many years I was afraid of sharing my code but if I want to get hired then I need to start writing about and sharing my projects (as well as contributing to other people's projects), so:
+Unlike most of my projects, I decided to open-source it. For many years I was afraid of sharing my code but if I want to get hired then I need to start writing about and sharing my projects (as well as contributing to other people's projects), so.
 
 ## What libraries are you using?
 
