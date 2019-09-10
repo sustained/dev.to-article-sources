@@ -8,6 +8,7 @@
 
 # Table of Contents
 
+- [All I see is blonde, brunette, redhead...](#all-i-see-is-blonde-brunette-redhead)
 - [Introduction](#introduction)
     - [What libraries are you using?](#what-libraries-are-you-using)
     - [Why the name "Sforzando"?](#why-the-name)
