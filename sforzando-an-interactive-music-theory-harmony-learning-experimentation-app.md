@@ -34,6 +34,7 @@
         - [To send light into the darkness of men's hearts](#to-send-light-into-the-darkness-of-men's-hearts)
 - [Fin](#fin)
 - [Ideas, suggestions, feedback?](#ideas-suggestions-feedback)
+- [Links](#links)
 
 [Back to top](#sforzando)
 
@@ -72,6 +73,8 @@ Like most of my projects, my reasons for creating it are:
 - because I'll surely learn _something_ from it and I like to learn
 
 Unlike most of my projects, I decided to open-source it. For many years I was afraid of sharing my code but if I want to get hired then I need to start writing about and sharing my projects (as well as contributing to other people's projects), so.
+
+You'll find the links to the repository and demo down at the end of the article. This is a thinly veiled attempt to get you to read it first. ;D
 
 ## What libraries are you using?
 
